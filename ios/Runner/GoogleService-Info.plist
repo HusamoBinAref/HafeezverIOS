@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>659632201959-q4hg83nbupkveqe06jvbo9fkfn8r1716.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.659632201959-q4hg83nbupkveqe06jvbo9fkfn8r1716</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>659632201959-909en4hj4ukmdsbukon4dhej16p3qk5m.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDjaI8wVBbq3VHV5tPUt_9ruNWrdjab-g4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>659632201959</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.futuresages.hafeez</string>
+	<key>PROJECT_ID</key>
+	<string>hafezstage-1d1bb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hafezstage-1d1bb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:659632201959:ios:f3ec0e08804dab597b0242</string>
+	<key>DATABASE_URL</key>
+	<string>https://hafezstage-1d1bb.firebaseio.com</string>
+</dict>
+</plist>

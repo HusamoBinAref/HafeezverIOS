@@ -1,0 +1,138 @@
+// DO NOT EDIT. This is code generated via package:intl/generate_localized.dart
+// This is a library that provides messages for a bn locale. All the
+// messages from the main program should be duplicated here with the same
+// function name.
+
+// Ignore issues from commonly used lints in this file.
+// ignore_for_file:unnecessary_brace_in_string_interps, unnecessary_new
+// ignore_for_file:prefer_single_quotes,comment_references, directives_ordering
+// ignore_for_file:annotate_overrides,prefer_generic_function_type_aliases
+// ignore_for_file:unused_import, file_names
+
+import 'package:intl/intl.dart';
+import 'package:intl/message_lookup_by_library.dart';
+
+final messages = new MessageLookup();
+
+typedef String MessageIfAbsent(String messageStr, List<dynamic> args);
+
+class MessageLookup extends MessageLookupByLibrary {
+  String get localeName => 'bn';
+
+  final messages = _notInlinedMessages(_notInlinedMessages);
+  static _notInlinedMessages(_) => <String, Function> {
+    "account_age" : MessageLookupByLibrary.simpleMessage("Age"),
+    "account_dead" : MessageLookupByLibrary.simpleMessage("Death"),
+    "account_dead_date" : MessageLookupByLibrary.simpleMessage("Death date"),
+    "account_dead_location" : MessageLookupByLibrary.simpleMessage("Death location"),
+    "account_email" : MessageLookupByLibrary.simpleMessage("Email"),
+    "account_gender" : MessageLookupByLibrary.simpleMessage("Gender"),
+    "account_gender_female" : MessageLookupByLibrary.simpleMessage("Female"),
+    "account_gender_male" : MessageLookupByLibrary.simpleMessage("Male"),
+    "account_name" : MessageLookupByLibrary.simpleMessage("Name"),
+    "account_part" : MessageLookupByLibrary.simpleMessage(".........................................................................."),
+    "account_prith" : MessageLookupByLibrary.simpleMessage("Birth"),
+    "account_prith_date" : MessageLookupByLibrary.simpleMessage("Birth Date"),
+    "account_prith_location" : MessageLookupByLibrary.simpleMessage("Birth Location"),
+    "account_type" : MessageLookupByLibrary.simpleMessage("Account Type"),
+    "account_type_sheikh" : MessageLookupByLibrary.simpleMessage("Sheikh"),
+    "account_type_visiter" : MessageLookupByLibrary.simpleMessage("visitor"),
+    "add_Item" : MessageLookupByLibrary.simpleMessage("New post"),
+    "add_Item_Department" : MessageLookupByLibrary.simpleMessage("Choose a department"),
+    "add_Item_Departments_choose" : MessageLookupByLibrary.simpleMessage("Enter a text"),
+    "add_Item_Departments_null" : MessageLookupByLibrary.simpleMessage("There are no departments selected..."),
+    "add_Item_Image_camera" : MessageLookupByLibrary.simpleMessage("Camera"),
+    "add_Item_Image_studio" : MessageLookupByLibrary.simpleMessage("Studio"),
+    "add_Item_Word" : MessageLookupByLibrary.simpleMessage("Choose a word"),
+    "add_Item_Words_choose" : MessageLookupByLibrary.simpleMessage("Enter a text"),
+    "add_Item_Words_null" : MessageLookupByLibrary.simpleMessage("There are no words selected..."),
+    "add_Item_description" : MessageLookupByLibrary.simpleMessage("Description"),
+    "add_Item_feild_1_name" : MessageLookupByLibrary.simpleMessage("Title and Description"),
+    "add_Item_feild_2_name" : MessageLookupByLibrary.simpleMessage("Departments"),
+    "add_Item_feild_3_name" : MessageLookupByLibrary.simpleMessage("Words"),
+    "add_Item_feild_4_name" : MessageLookupByLibrary.simpleMessage("Image"),
+    "add_Item_page_name" : MessageLookupByLibrary.simpleMessage("New"),
+    "add_Item_title" : MessageLookupByLibrary.simpleMessage("Title / Name"),
+    "add_Item_title_language" : MessageLookupByLibrary.simpleMessage("Title language"),
+    "add_Item_title_language_choose" : MessageLookupByLibrary.simpleMessage("Choose a language"),
+    "add_book" : MessageLookupByLibrary.simpleMessage("Add book"),
+    "add_post" : MessageLookupByLibrary.simpleMessage("Add post"),
+    "add_video" : MessageLookupByLibrary.simpleMessage("add video"),
+    "add_video_error" : MessageLookupByLibrary.simpleMessage("this URL is not valide ..."),
+    "add_video_field_hint" : MessageLookupByLibrary.simpleMessage("Enter URL here ..."),
+    "add_video_link" : MessageLookupByLibrary.simpleMessage("Add a media link here"),
+    "add_video_url" : MessageLookupByLibrary.simpleMessage("Paste media URL to view thumbnail"),
+    "add_vioce" : MessageLookupByLibrary.simpleMessage("add voice"),
+    "all" : MessageLookupByLibrary.simpleMessage("All"),
+    "already_register" : MessageLookupByLibrary.simpleMessage("Already Register? "),
+    "appName" : MessageLookupByLibrary.simpleMessage("Hafeez"),
+    "books" : MessageLookupByLibrary.simpleMessage("Books"),
+    "buttons" : MessageLookupByLibrary.simpleMessage("........................................."),
+    "chat_Button" : MessageLookupByLibrary.simpleMessage("Send message"),
+    "configartions" : MessageLookupByLibrary.simpleMessage("Settings and Configartions"),
+    "confirm_password" : MessageLookupByLibrary.simpleMessage("Confirm Password"),
+    "countries" : MessageLookupByLibrary.simpleMessage("البلدان"),
+    "create_at" : MessageLookupByLibrary.simpleMessage("post date"),
+    "create_update" : MessageLookupByLibrary.simpleMessage("update date"),
+    "dark_mode" : MessageLookupByLibrary.simpleMessage("Dark Mode"),
+    "departments" : MessageLookupByLibrary.simpleMessage("Departments"),
+    "description" : MessageLookupByLibrary.simpleMessage("Description"),
+    "descriptions" : MessageLookupByLibrary.simpleMessage("Descriptions"),
+    "email" : MessageLookupByLibrary.simpleMessage("Email"),
+    "enterFaces" : MessageLookupByLibrary.simpleMessage("Interfaces"),
+    "favorite_Button" : MessageLookupByLibrary.simpleMessage("Favorite"),
+    "filter" : MessageLookupByLibrary.simpleMessage("Filter"),
+    "first_time" : MessageLookupByLibrary.simpleMessage("Enter"),
+    "follow_Button" : MessageLookupByLibrary.simpleMessage("Follow"),
+    "full_name" : MessageLookupByLibrary.simpleMessage("Full name"),
+    "help_supports" : MessageLookupByLibrary.simpleMessage("Help & Supports"),
+    "invalid_email" : MessageLookupByLibrary.simpleMessage("Invalid Email"),
+    "item_createAt" : MessageLookupByLibrary.simpleMessage("Post Date"),
+    "item_description" : MessageLookupByLibrary.simpleMessage("Description"),
+    "item_title" : MessageLookupByLibrary.simpleMessage("Title"),
+    "item_user" : MessageLookupByLibrary.simpleMessage("Publisher"),
+    "languageCode" : MessageLookupByLibrary.simpleMessage("bn"),
+    "languageId" : MessageLookupByLibrary.simpleMessage("bn"),
+    "languages" : MessageLookupByLibrary.simpleMessage("اللغات"),
+    "light_mode" : MessageLookupByLibrary.simpleMessage("Light Mode"),
+    "like_Button" : MessageLookupByLibrary.simpleMessage("Like"),
+    "loading" : MessageLookupByLibrary.simpleMessage("Loading"),
+    "logIn" : MessageLookupByLibrary.simpleMessage("Log in"),
+    "logIn_text_and_messages" : MessageLookupByLibrary.simpleMessage("................"),
+    "messages" : MessageLookupByLibrary.simpleMessage("................"),
+    "name_cnt_be_null" : MessageLookupByLibrary.simpleMessage("Name can\'t be empty"),
+    "names" : MessageLookupByLibrary.simpleMessage("الأسماء"),
+    "nationalities" : MessageLookupByLibrary.simpleMessage("الجنسيات"),
+    "no_thing" : MessageLookupByLibrary.simpleMessage("No thing...."),
+    "not_register" : MessageLookupByLibrary.simpleMessage("Have no Register? "),
+    "password" : MessageLookupByLibrary.simpleMessage("Password"),
+    "password_length" : MessageLookupByLibrary.simpleMessage("Min 5 char required"),
+    "posts" : MessageLookupByLibrary.simpleMessage("Posts"),
+    "profile_information" : MessageLookupByLibrary.simpleMessage("My informations"),
+    "profile_myFavorites" : MessageLookupByLibrary.simpleMessage("Favorites"),
+    "profile_myItems" : MessageLookupByLibrary.simpleMessage("Posts"),
+    "profile_others" : MessageLookupByLibrary.simpleMessage("Others"),
+    "register" : MessageLookupByLibrary.simpleMessage("Register"),
+    "registor_text_and_messages" : MessageLookupByLibrary.simpleMessage(".........................................................................."),
+    "search" : MessageLookupByLibrary.simpleMessage("seach"),
+    "select_one_department_or_more" : MessageLookupByLibrary.simpleMessage("select one department or moer..."),
+    "select_one_word_or_more" : MessageLookupByLibrary.simpleMessage("select one related word or moer..."),
+    "settings" : MessageLookupByLibrary.simpleMessage("Settings"),
+    "settings_languages" : MessageLookupByLibrary.simpleMessage("Languages"),
+    "settings_languages_isSelected" : MessageLookupByLibrary.simpleMessage("Current language"),
+    "settings_text" : MessageLookupByLibrary.simpleMessage(".........................................................."),
+    "share_Button" : MessageLookupByLibrary.simpleMessage("Share"),
+    "sheikhs" : MessageLookupByLibrary.simpleMessage("Sheikhs"),
+    "signIn" : MessageLookupByLibrary.simpleMessage("Sign In"),
+    "signOut" : MessageLookupByLibrary.simpleMessage("Sign out"),
+    "spacializations" : MessageLookupByLibrary.simpleMessage("التخصصات"),
+    "ten_cher_or_more" : MessageLookupByLibrary.simpleMessage("should be +10 char... "),
+    "titles" : MessageLookupByLibrary.simpleMessage("Titles"),
+    "videoWords" : MessageLookupByLibrary.simpleMessage("-------------------------------------------------------------------"),
+    "videos" : MessageLookupByLibrary.simpleMessage("Videos"),
+    "voices" : MessageLookupByLibrary.simpleMessage("Voices"),
+    "with_in_Account" : MessageLookupByLibrary.simpleMessage("with in account_part"),
+    "with_out_Account" : MessageLookupByLibrary.simpleMessage("With out account_part"),
+    "words" : MessageLookupByLibrary.simpleMessage("Words")
+  };
+}

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.webkit:webkit:1.2.0@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cfea7b419de7a48167fc9f646b6e44d0/webkit-1.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cfea7b419de7a48167fc9f646b6e44d0/webkit-1.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

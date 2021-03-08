@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "659632201959",
+    "firebase_url": "https://hafezstage-1d1bb.firebaseio.com",
+    "project_id": "hafezstage-1d1bb",
+    "storage_bucket": "hafezstage-1d1bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659632201959:android:866542e13172815b7b0242",
+        "android_client_info": {
+          "package_name": "com.futuresages.hafeez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659632201959-909en4hj4ukmdsbukon4dhej16p3qk5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.futuresages.hafeez",
+            "certificate_hash": "8447ac94148095a7a0f767c070c4103132921672"
+          }
+        },
+        {
+          "client_id": "659632201959-igap3m3k2lnjup6bnr422rh4t4puoau7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJOgPl7fmJ6No32PfBxWHPfey37u7HVQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659632201959-igap3m3k2lnjup6bnr422rh4t4puoau7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
